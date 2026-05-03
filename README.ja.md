@@ -77,6 +77,7 @@ RIA-TV++ の名前の由来：
 | [cognitive-dividend-skill](https://github.com/kangarooking/cognitive-dividend-skill) | 認知の红利 | 15 |
 | [duan-yongping-skill](https://github.com/kangarooking/duan-yongping-skill) | 段永平の投資Q&A（ビジネス+投資ロジック） | 15 |
 | [viral-copywriting-skill](https://github.com/kangarooking/viral-copywriting-skill) | 『爆款文案』 | 14 |
+| [copywriters-handbook-skill](https://github.com/kangarooking/copywriters-handbook-skill) | 『The Copywriter's Handbook』 | 12 |
 | [contagious-skill](https://github.com/kangarooking/contagious-skill) | 『Contagious』 | 15 |
 | [poor-charlies-almanack-skill](https://github.com/kangarooking/poor-charlies-almanack-skill) | 貧しきチャーリーの格言 | 12 |
 | [no-rules-rules-skill](https://github.com/kangarooking/no-rules-rules-skill) | No Rules Rules | 10 |
@@ -126,6 +127,7 @@ cangjie-skill はより大きなスキルエコシステムの一部です：
 - [Cognitive Dividend Skill](https://github.com/kangarooking/cognitive-dividend-skill) — 『認知の红利』から抽出した15個の認知ツールスキル
 - [Duan Yongping Skill](https://github.com/kangarooking/duan-yongping-skill) — 段永平の投資Q&Aから抽出した15個のビジネス・投資スキル
 - [Viral Copywriting Skill](https://github.com/kangarooking/viral-copywriting-skill) — 『爆款文案』から抽出した14個の販売コピーライティング・診断スキル
+- [Copywriters Handbook Skill](https://github.com/kangarooking/copywriters-handbook-skill) — 『The Copywriter's Handbook』から抽出した12個の販売コピー・見出し・ベネフィット変換スキル
 - [Contagious Skill](https://github.com/kangarooking/contagious-skill) — 『Contagious』から抽出した15個のSTEPPS伝播戦略・口コミ診断スキル
 - Huangdi Neijing Suwen Skill（本プロジェクト内）— 『黄帝内経・素問』から抽出した10個の中医観察・調整スキル
 - Huangdi Neijing Lingshu Skill（本プロジェクト内）— 『黄帝内経・霊枢』から抽出した8個の心身調整・弁証スキル

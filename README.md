@@ -88,6 +88,7 @@ RIA-TV++ 这个名字拆开看：
 | [cognitive-dividend-skill](https://github.com/kangarooking/cognitive-dividend-skill) | 《认知红利》 | 15 |
 | [duan-yongping-skill](https://github.com/kangarooking/duan-yongping-skill) | 段永平投资问答录（商业逻辑+投资逻辑） | 15 |
 | [viral-copywriting-skill](https://github.com/kangarooking/viral-copywriting-skill) | 《爆款文案》 | 14 |
+| [copywriters-handbook-skill](https://github.com/kangarooking/copywriters-handbook-skill) | 《文案创作完全手册》 | 12 |
 | [contagious-skill](https://github.com/kangarooking/contagious-skill) | 《疯传》 | 15 |
 | [poor-charlies-almanack-skill](https://github.com/kangarooking/poor-charlies-almanack-skill) | 《穷查理宝典》 | 12 |
 | [no-rules-rules-skill](https://github.com/kangarooking/no-rules-rules-skill) | 《不拘一格：网飞的自由与责任工作法》 | 10 |
@@ -136,6 +137,7 @@ cangjie-skill 是一个更大的 skill 生态的一部分：
 - [Cognitive Dividend Skill](https://github.com/kangarooking/cognitive-dividend-skill) — 《认知红利》思维升级的 15 个认知工具 skill
 - [Duan Yongping Skill](https://github.com/kangarooking/duan-yongping-skill) — 段永平投资问答录的 15 个商业与投资 skill
 - [Viral Copywriting Skill](https://github.com/kangarooking/viral-copywriting-skill) — 《爆款文案》的 14 个销售型文案写作与诊断 skill
+- [Copywriters Handbook Skill](https://github.com/kangarooking/copywriters-handbook-skill) — 《文案创作完全手册》的 12 个销售型文案、标题与卖点转化 skill
 - [Contagious Skill](https://github.com/kangarooking/contagious-skill) — 《疯传》的 15 个 STEPPS 传播策略与口碑诊断 skill
 - [Huangdi Neijing Skill](https://github.com/kangarooking/huangdi-neijing-skill) — 《黄帝内经》素问12+灵枢10共22个思维方法 skill
 - [First Principles Skill](https://github.com/kangarooking/first-principles-skill) — 《第一性原理》的 10 个认知拆解、破界创新与组织刷新 skill
