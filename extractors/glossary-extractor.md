@@ -24,6 +24,8 @@
 
 ## 输出格式
 
+每条候选写成一个 YAML 条目，追加到 `books/<slug>/candidates/glossary.md`：
+
 ```yaml
 - id: g01
   term: 能力圈

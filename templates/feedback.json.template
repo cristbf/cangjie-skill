@@ -1,0 +1,45 @@
+{
+  "skill": "{{skill-slug}}",
+  "version": "{{版本号, 如 1.0.0}}",
+  "last_updated": "{{DATE}}",
+  "feedback_entries": [
+    {
+      "date": "{{反馈日期}}",
+      "trigger_type": "correct",
+      "user_query": "{{用户的原始问题}}",
+      "expected_trigger": true,
+      "actual_triggered": true,
+      "output_quality": "good",
+      "issue": null,
+      "suggestion": null
+    },
+    {
+      "date": "{{反馈日期}}",
+      "trigger_type": "missed",
+      "user_query": "{{用户的原始问题 — 应该触发但没触发}}",
+      "expected_trigger": true,
+      "actual_triggered": false,
+      "output_quality": null,
+      "issue": "skill 未被激活,用户手动处理了",
+      "suggestion": "A2 的 trigger 信号需要覆盖这类场景"
+    },
+    {
+      "date": "{{反馈日期}}",
+      "trigger_type": "false_alarm",
+      "user_query": "{{用户的原始问题 — 不应该触发但触发了}}",
+      "expected_trigger": false,
+      "actual_triggered": true,
+      "output_quality": "poor",
+      "issue": "skill 被误激活,输出了不相关的内容",
+      "suggestion": "A2 需要增加排除条件"
+    }
+  ],
+  "summary": {
+    "total_feedbacks": "{{总反馈数}}",
+    "correct_rate": "{{正确触发率, 如 0.85}}",
+    "missed_rate": "{{遗漏率}}",
+    "false_alarm_rate": "{{误触发率}}",
+    "avg_output_quality": "{{平均输出质量: good/acceptable/poor}}",
+    "recommended_action": "{{none / tighten_trigger / loosen_trigger / revise_execution / full_rework}}"
+  }
+}
